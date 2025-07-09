@@ -3,6 +3,7 @@
 A fresh take on the timeless Snake game — controlled entirely with your index finger, tracked live through your webcam! Developed using Python, OpenCV, pygame, and cvzone.
 
 🎮 Key Highlights
+
 🖐️ Hand Gesture Navigation: Steer the snake using your index finger — no keyboard required.
 
 🍎 Variety of Food Items: Randomly appears as bananas, apples, and donuts.
